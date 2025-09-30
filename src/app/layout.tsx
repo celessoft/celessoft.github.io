@@ -15,6 +15,11 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "CelesSoft - 혁신적인 앱 서비스",
   description: "CelesSoft는 최신 기술을 활용한 혁신적인 앱 서비스를 제공합니다.",
+  icons: {
+    icon: "/CelesSoft.png",
+    shortcut: "/CelesSoft.png",
+    apple: "/CelesSoft.png",
+  },
 };
 
 export default function RootLayout({
