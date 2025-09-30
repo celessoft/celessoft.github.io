@@ -20,7 +20,7 @@ export default function Home() {
                                 className="rounded-lg"
                             />
                             <h1 className="text-2xl font-bold text-white">
-                                Celes<span className="text-cyan-400">Soft</span>
+                                Celes<span className="text-slate-400">Soft</span>
                             </h1>
                         </div>
                         <div className="hidden md:block">
@@ -281,7 +281,7 @@ export default function Home() {
                                     className="rounded-lg"
                                 />
                                 <h3 className="text-2xl font-bold">
-                                    Celes<span className="text-cyan-400">Soft</span>
+                                    Celes<span className="text-slate-400">Soft</span>
                                 </h3>
                             </div>
                             <p className="text-slate-400">
@@ -316,7 +316,7 @@ export default function Home() {
                     </div>
                     <Separator className="my-8 bg-slate-700" />
                     <div className="text-center text-slate-400">
-                        <p>&copy; 2024 CelesSoft. All rights reserved.</p>
+                        <p>&copy; 2025 CelesSoft. All rights reserved.</p>
                     </div>
                 </div>
             </footer>

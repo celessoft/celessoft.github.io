@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "celesSoft - 혁신적인 소프트웨어 솔루션",
-  description: "celesSoft는 최신 기술을 활용한 혁신적인 소프트웨어 솔루션을 제공합니다.",
+  title: "CelesSoft - 혁신적인 앱 서비스",
+  description: "CelesSoft는 최신 기술을 활용한 혁신적인 앱 서비스를 제공합니다.",
 };
 
 export default function RootLayout({

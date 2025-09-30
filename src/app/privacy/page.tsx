@@ -20,7 +20,7 @@ export default function PrivacyPage() {
                                 className="rounded-lg"
                             />
                             <h1 className="text-2xl font-bold text-white">
-                                Celes<span className="text-cyan-400">Soft</span>
+                                Celes<span className="text-slate-400">Soft</span>
                             </h1>
                         </Link>
                         <Link href="/">
@@ -42,7 +42,7 @@ export default function PrivacyPage() {
                         CelesSoft는 사용자의 개인정보 보호를 최우선으로 합니다.
                     </p>
                     <p className="text-sm text-slate-400 mt-2">
-                        최종 수정일: 2024년 12월 19일
+                        최종 수정일: 2025년 1월 1일
                     </p>
                 </div>
 
@@ -238,11 +238,11 @@ export default function PrivacyPage() {
                                 className="rounded-lg"
                             />
                             <h3 className="text-xl font-bold">
-                                Celes<span className="text-cyan-400">Soft</span>
+                                Celes<span className="text-slate-400">Soft</span>
                             </h3>
                         </div>
                         <p className="text-slate-400 text-sm">
-                            &copy; 2024 CelesSoft. All rights reserved.
+                            &copy; 2025 CelesSoft. All rights reserved.
                         </p>
                     </div>
                 </div>

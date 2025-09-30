@@ -77,4 +77,4 @@ npm run export
 
 ## 📄 라이선스
 
-© 2024 CelesSoft. All rights reserved.
+© 2025 CelesSoft. All rights reserved.
