@@ -2,9 +2,11 @@ import { NextResponse } from "next/server";
 
 export async function GET() {
   const versionInfo = {
-    android: "1.0.13",
+    android: "1.0.14",
     ios: "1.0.0",
-    forceUpdate: false,
+    minAndroidVersion: "1.0.13",
+    minIosVersion: "1.0.0",
+    forceUpdate: true,
   };
 
   return NextResponse.json(versionInfo, {
